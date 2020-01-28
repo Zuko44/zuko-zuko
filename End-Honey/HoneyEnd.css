@@ -1,0 +1,149 @@
+   body {
+   text-align: justify;
+   margin: 0px;
+   padding: 0px;
+   }
+   #firstWrapper {
+   width: 100%;
+   min-width: 1500px;
+   margin: 0px;
+   padding: 0px;
+   }
+   #header {
+   height: 150px;
+   }
+   #firstHeader {
+   height: 20px;
+   background-color: #a9a9a9;
+   }
+   #secondHeader {
+   height: 50px;
+   background-color: #c0c0c0;
+   position: relative;
+   }
+   #insideTwo {
+   padding: 0px;
+   font-size: 35px;
+   color: #a52a2a; 
+   }
+   .inSide {
+   float: right;
+   margin-top: -25px;
+   color: #a52a2a;
+   }
+   .crutch {
+   width: 1100px;
+   margin: 0px auto;
+   }
+   .toRight li {
+   list-style-type: none;
+   display: inline;
+   }
+   .toRight ul {
+   padding: 0px;
+   margin: 0px;
+   position: relative;
+   }
+   #thirdHeader {
+   height: 50px;
+   background-color: #a52a2a;
+   }
+   #thirdHeader a {
+   text-decoration: none;
+   font-size: 25px;
+   color: white;
+   line-height: 50px;
+   padding: 11px;   
+   }
+   #thirdHeader a:hover, #Deviant {
+   background-color: #8b0000;
+   }
+   #fourthHeader {
+   height: 30px;
+   background-color: #a9a9a9;
+   position: relative;
+   color: #2f4f4f;
+   }
+   #fourthHeader li {
+   margin: 0px 5px 0px 30px;
+   }
+   #fourthHeader a {
+   list-style-type: none;
+   color: #2f4f4f;
+   font-size: 20px;
+   }
+   #fourthHeader a:hover {
+   text-decoration: none;
+   }
+   .TwoIn {
+   margin: -20px 0px 0px 0px;
+   float: right;
+   }  
+   #wrapper {
+   width: 1100px;
+   margin: 0px auto;
+   }
+   #left {   
+   width: 570px;
+   float: left;
+   }
+   #right {
+   width: 250px;
+   float: right;
+   }
+   #right p, #content p {
+   font-size: 13px;
+   line-height: 15px;
+   }
+   #right, #left {
+   margin-top: -20px;
+   }
+   #content {
+   margin: 0px 270px 0px 590px;
+   }
+   .clearfix {
+   clear: both;
+   }
+   #footer {
+   height: 200px;
+   background-color: #c0c0c0;
+   }
+   #SecondFooter {
+   width: 1100px;
+   margin: 20px auto 0px;
+   }
+   #leftFooter {
+   margin-top: 15px;
+   width: 200px;
+   float: left;
+   }
+   #rightFooter {
+   text-align: center;
+   width: 1150px;
+   }
+   #rightFooter p {
+   font-size: 12px;
+   line-height: 7px;
+   }
+   #footer ul {
+   padding: 0px;
+   }
+   #footer a {
+   color: black;
+   text-decoration: none;
+   }
+   #footer a:hover {
+   text-decoration: underline;
+   }
+   #footer h3 {
+   margin: 10px 0px -5px 0px;
+   }
+   #footer li {
+   list-style-type: none;
+   margin-bottom: 10px;
+   font-size: 14px;
+   text-align: left;
+   }
+   hr {
+   width: 850px;
+   }
