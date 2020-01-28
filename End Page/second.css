@@ -1,0 +1,62 @@
+   h1, h2, p, ol, body {
+   margin: 0px;
+   padding: 0px;
+   }
+   h1, h2 {
+   text-align: center;
+   padding-top: 10px;
+   margin-bottom: 10px;
+   }
+   h1 {
+   font-size: 40px;
+   }
+   h2 {
+   font-size: 30px;
+   }
+   #header {
+   height: 150px;
+   background-color: green;
+   line-height: 30px;
+   }
+   #header p {
+   font-size: 20px;
+   }
+   #center {
+   height: 90px;
+   background-color: #b22222;
+   }
+   .middle {
+   text-align: center;
+   color: white;
+   }
+   .middleEarth {
+   width: 850px;
+   margin: 10px auto 25px auto;
+   text-align: justify;
+   font-size: 17px;
+   }
+   secondWrapper p {
+   margin-left: 10px;
+   }
+   li {
+   color: red;
+   list-style-position: inside;
+   margin-bottom: 10px;
+   }
+   li span {
+   color: black;
+   }
+   #footer {
+   height: 300px;
+   background-color: #ff7f50; 
+   }
+   img {
+   border: 1px solid black;
+   }
+   #afterFooter {
+   height: 200px;
+   background-color: #8b4513;
+   }
+   #afterFooter p {
+   padding-top: 180px;
+   }
